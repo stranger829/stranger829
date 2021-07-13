@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stranger829
-- 👀 I’m interested in ... stuff
+- 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python
 - 📫 How to reach me ...python
